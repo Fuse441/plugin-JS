@@ -4,7 +4,7 @@ commands:
     subtitle: "Subtitle for js1"
     sound: "minecraft:custom_sound1"
     volume: 10.0
-    pitch: 1.0
+    pitch: 1.2
   js2:
     title: "Title for js2"
     subtitle: "Subtitle for js2"
